@@ -1,0 +1,5 @@
+Copyright (c) 2026 RMRNM. All rights reserved.
+
+Original website design, application code, copy, generated floral imagery, and RMRNM marks in this project are reserved for the author's portfolio. Public availability of this repository does not grant a license to redistribute these materials.
+
+Cormorant Garamond and Manrope font files are third-party works licensed under the SIL Open Font License 1.1. Their license notices are included in dist/assets/licenses/ and take precedence for those font files only.

@@ -1,0 +1,12 @@
+{
+  "name": "lilia-rmrnm-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Лилия — авторский демонстрационный сайт цветочной студии. Портфолио RMRNM.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node serve.mjs",
+    "check": "node --check dist/assets/app.js && node --check build.mjs && node verify.mjs"
+  }
+}
